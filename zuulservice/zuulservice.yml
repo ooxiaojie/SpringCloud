@@ -1,2 +1,2 @@
-zuul.prefix: /apis
+zuul.prefix: /api
 zuul.ignored-services: '*'
